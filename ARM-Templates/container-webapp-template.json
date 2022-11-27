@@ -3,11 +3,11 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "webAppName": {
-            "defaultValue": "colinb-devops-dev",
+            "defaultValue": "julief-devops-dev",
             "type": "String"
         },
         "hostingPlanName": {
-            "defaultValue": "colinb-devops-asp",
+            "defaultValue": "julief-devops-asp",
             "type": "String"
         },
         "appInsightsLocation": {
@@ -15,7 +15,7 @@
             "type": "String"
         },
         "appInsightsName": {
-            "defaultValue": "colinb-devops-ai",
+            "defaultValue": "julief-devops-ai",
             "type": "String"
         },        
         "sku": {
@@ -23,11 +23,11 @@
             "type": "String"
         },
         "registryName": {
-            "defaultValue": "colinbdevopsreg",
+            "defaultValue": "juliefbdevopsreg",
             "type": "String"
         },
         "imageName": {
-            "defaultValue": "colinbdevopsimage",
+            "defaultValue": "juliefdevopsimage",
             "type":"String"
         },
         "registryLocation": {
